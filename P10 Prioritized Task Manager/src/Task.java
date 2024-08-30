@@ -1,5 +1,3 @@
-//TODO Add your file header here
-
 /**
  * Instantiable class for Task objects. These Tasks can be given different priority levels
  * and compared based on different criteria.
